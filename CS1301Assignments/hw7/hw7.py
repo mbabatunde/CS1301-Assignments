@@ -1,7 +1,5 @@
-#Mark Babatunde and Richard Zhang
+#Mark Babatunde
 #C01
-#903158527 / mbabatunde3@gatech.edu
-#"I worked on this assignment with Richard Zhang, using only this semester's course materials."
 
 from Myro import *
 
