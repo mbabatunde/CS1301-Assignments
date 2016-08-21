@@ -1,9 +1,6 @@
 #Hw6
 #Mark Babatunde
 #Section C
-#GTID: 903158527
-#mbabatunde3@gatech.edu
-#"We, Awnish Choudhary and myself, Mark Babatunde, for pair programming assignments worked on the homework assignment alone, using only this semester's course materials." 
 
 from Myro import *
 init()
