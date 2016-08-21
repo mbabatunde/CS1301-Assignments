@@ -1,8 +1,6 @@
 #Paired Assignment
-#Mark Babatunde and Awnish Choudhary
+#Mark Babatunde
 #Section C
-#GTID: 903158527 and 
-#mbabatunde3@gatech.edu and achoudhary34@gatech.edu
 #"We worked on the homework assignment together, using this semester's course materials"
 
 from Myro import *
