@@ -1,8 +1,6 @@
 #Hw3
 #Mark Babatunde
 #Section C
-#GTID: 903158527
-#mbabatunde3@gatech.edu
 #"I worked on the homework assignment with the help of Awnish Choudhary, using this semester's course materials, https://docs.python.org/2/library/stdtypes.html, and https://docs.python.org/2/library/functions.html"
 
 def applyToTech(reading, math, writing):
