@@ -1,8 +1,6 @@
 #Hw5
 #Mark Babatunde
 #Section C
-#GTID: 903158527
-#mbabatunde3@gatech.edu
 #"I worked on the homework assignment alone, using only this semester's course materials." 
 
 def onlySixths(integers):  
