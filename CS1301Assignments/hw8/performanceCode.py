@@ -1,6 +1,5 @@
-#Awnish Choudhary, Mark Babatunde, Klest Sula, and Tony Sun 
-#Section C1 
-#klestsula@gmail.com, awnishc@gmail.com, tony.sun@gatech.edu, markababatunde@gmail.com
+#Mark Babatunde
+#Section C1
 #"We worked on the homework assignment alone, using only this semester's course materials." 
 
 from Myro import *
