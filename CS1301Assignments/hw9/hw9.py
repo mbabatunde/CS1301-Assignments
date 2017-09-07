@@ -3,6 +3,8 @@
 #Mark Babatunde
 #"I worked on the homework assignment alone, using only this semester's course materials."
 
+from functools import reduce
+
 def machToFPS(machList):
     x = map(lambda i: i * 1116.4370079, machList)
     for i in range(0, len(machList)):
@@ -15,7 +17,4 @@ def sqPyramidVolume(baseHeightList, volumeList):
     return (correctList)
 
 def makeChange(changeList):
-    d,q,di,n,p = changeList[0] * 100, changeList[1] * 25, changeList[2] * 10, changeList[3] * 5, changeList[4] * 1
-    newList = [d,q,di,n,p]
-    totalValue = reduce(lambda x,y: x+y, newList)
-    return (totalValue)
+    return (reduce(lambda x,y: x+y, [changeList[0] * 100, changeList[1] * 25, changeList[2] * 10, changeList[3] * 5, changeList[4] * 1]))
